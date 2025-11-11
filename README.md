@@ -4,3 +4,5 @@ Planned for it to have a front end as well, which I have not done, but its fully
 
 Scrapper file - python code used to scrape html code to gather necessary information. Was originaly planned to scrape straight from a website, but the website was blocking requests. Had to manually download the html code of needed pages to use.
 
+Fifa 16 projcet - the main part was made using java, since, that was the language I was learning at the moment. The randomise class uses a csv file with player information, made with the included scrapper. 
+
